@@ -1,0 +1,4 @@
+#Wed Mar 07 16:29:08 PST 2018
+base.0=P\:\\CS371PigGameStarter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bf6372499ab7d9c7586f81e3c8610d4c63b58b3f
+renamed.0=classes.dex
+file.0=P\:\\CS371PigGameStarter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_bf6372499ab7d9c7586f81e3c8610d4c63b58b3f\\classes.dex
